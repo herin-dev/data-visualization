@@ -2,6 +2,8 @@
 
 Visualization of Data
 =====================
+Create web page that shows visualization of data.
+Develop CRUD(CREATE, REMOVE, UPDATE, DELETE) that is basis of development and variety of charts.
 
 Development Environment
 -----------------------
@@ -19,4 +21,7 @@ Steps
 1. Set up for web
     - Install program tools 
     - Spring, Mariadb, MyBatis configuration
-2. -
+2. 
+
+
+refer to <https://devfunpj.tistory.com/>
