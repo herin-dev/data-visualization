@@ -21,7 +21,9 @@ Steps
 1. Set up for web
     - Install program tools 
     - Spring, Mariadb, MyBatis configuration
-2. 
+2. Visualize the data to chart
+    - d3.js
+    - node.js
 
 
 refer to <https://devfunpj.tistory.com/>
